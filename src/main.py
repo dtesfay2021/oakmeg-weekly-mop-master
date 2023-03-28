@@ -13,7 +13,7 @@ def main(project, S3_PREFIX):
     overview_slide_index = 3
     mop_slide_index = 4
 
-    # Process each campaign sequentially
+    # Process each campaign sequentialy
     for result in campaign_list:
         campaign = result[0]
 
