@@ -1,0 +1,8 @@
+numpy==1.20.3
+plotly==5.3.1
+python_pptx==0.6.20
+psycopg2_binary==2.9.1
+SQLAlchemy==1.4.22
+Pillow==9.4.0
+kaleido
+pandas
